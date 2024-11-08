@@ -10,7 +10,7 @@ public class TestBean1 {
 		System.out.println("name["+name+"]");
 	}
 	
-	public void test3(String name) {
+	public void test3(String name) { 
 		System.out.println("name["+name+"]");
 	}
 	
