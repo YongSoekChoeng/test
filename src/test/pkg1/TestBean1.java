@@ -17,4 +17,8 @@ public class TestBean1 {
 	public void test4(String name) {
 		System.out.println("name["+name+"]");
 	}
+		
+	public void testBranch() {
+		// 브랜치1 작업		
+	}
 }
