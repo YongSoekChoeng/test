@@ -19,6 +19,9 @@ public class TestBean1 {
 	}
 		
 	public void testBranch() {
-		// 브랜치1 작업		
+		/********************
+		브랜치1 작업
+		********************/
+		
 	}
 }
