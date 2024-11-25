@@ -59,12 +59,9 @@ public class TestBean1 {
 		dev02 작업1
 		dev02 작업2
 		dev02 작업5
-<<<<<<< HEAD
 		dev02 작업6
 		dev02 작업7
 		dev02 작업8
-=======
->>>>>>> parent of d0c8667 (dev02 작업6)
 		******************** dev02 작업 끝 ********************/
 	}
 }
