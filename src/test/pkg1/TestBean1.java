@@ -15,7 +15,7 @@ public class TestBean1 {
 	}
 	
 	public void test4(String name) {
-		System.out.println("name["+name+"]"); 
+		System.out.println("name["+name+"]");
 	}
 		
 	public void testBranch() {
@@ -32,6 +32,7 @@ public class TestBean1 {
 		development 작업1
 		development 작업2
 		development 작업3
+		development 작업4
 		******************** development 작업 끝 ********************/
 
 		/******************** 공동 작업 시작 ******************
