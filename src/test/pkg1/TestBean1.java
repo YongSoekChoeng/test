@@ -28,15 +28,6 @@ public class TestBean1 {
 		main 작업5
 		******************** main 작업 끝 ********************/
 		
-		/******************** development 작업 시작 ******************
-		development 작업1
-		development 작업2
-		development 작업3
-		development 작업4
-		development 작업5
-		development 작업6
-		******************** development 작업 끝 ********************/
-
 		/******************** 공동 작업 시작 ******************
 		dev02 작업13
 		dev01 작업21
